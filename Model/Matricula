@@ -1,0 +1,7 @@
+<?php
+
+class Matricula extends AppModel {
+    public $belongsTo = array(
+        '', 'Course'
+    );
+}

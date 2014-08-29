@@ -1,0 +1,1 @@
+<p> © 2013 Escuela Profesional de Ingeniería de Sistemas Todos los derechos reservados. Design by <a href="http://www.freecsstemplates.org/" rel="nofollow">FreeCSSTemplates.org</a>.  Photos by <a href="http://fotogrph.com/">Fotogrph</a>.</p>
